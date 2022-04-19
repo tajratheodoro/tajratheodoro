@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **tajratheodoro@outlook.com**
 
-- 📄 I'm looking for: [New Experiences]
+- 📄 I'm looking for: (New Experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
