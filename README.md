@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tajratheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="tajratheodoro" /> </p>
 
-- 🔭 Projects that I'm working **I'm not working yet**
+- 🔭 Projects that I'm working: **I'm not working yet**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- 👯 I’m looking to collaborate on **Every project involving python**
+- 👯 I’m looking to collaborate on: **Every project involving python**
 
-- 🤝 Languages that I speak **Portguese and English**
+- 🤝 Languages that I speak: **Portguese and English**
 
-- 📫 How to reach me **tajratheodoro@outlook.com**
+- 📫 How to reach me: **tajratheodoro@outlook.com**
 
-- 📄 I'm looking for [New Experiences](New Experiences)
+- 📄 I'm looking for: [New Experiences]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
