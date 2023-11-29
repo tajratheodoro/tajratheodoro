@@ -1,5 +1,5 @@
 - 📘 Aprendendo Python, Java e JavaScript
-- 💬 Atualmente cursando Engenharia de Software - 3° período
+- 💬 Atualmente cursando Engenharia de Software - 4° período
 - ✅ Virtual Studio Code, Eclipse, Pycharm
 - 🗺️ Português e Inglês
 
