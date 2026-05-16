@@ -37,9 +37,11 @@ Atualmente estou no **7º período de Engenharia de Software** na Unifacid Wyden
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tajratheodoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Theodoro" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tajratheodoro&layout=donut&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  <!-- Troféus de Conquistas do GitHub -->
+  <img src="https://github-profile-trophies.vercel.app/?username=tajratheodoro&theme=tokyonight&column=4" alt="Troféus do GitHub" />
+  <br/><br/>
+  <!-- Estatísticas de Dias Seguidos Programando (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajratheodoro&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
