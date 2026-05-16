@@ -30,7 +30,7 @@ Atualmente estou no **7º período de Engenharia de Software** na Unifacid Wyden
 
 * 🤖 **[ai-sentiment-analysis-tool](https://github.com/tajratheodoro/ai-sentiment-analysis-tool):** Ferramenta desenvolvida para monitoramento de satisfação do cliente em larga escala utilizando inteligência artificial para classificar e analisar sentimentos em comentários.
 * 🏦 **[sistema_bancario_simples](https://github.com/tajratheodoro/sistema_bancario_simples):** Um sistema bancário via terminal feito em Python focado em regras de negócio rígidas para depósitos, saques e extratos.
-* 🌐 **[web_project_homeland](https://github.com/tajratheodoro/web_project_homeland):** Landing page e projeto de interface web focado em estruturação semântica e estilização moderna.
+* 💼 **[portfolio](https://github.com/tajratheodoro/portfolio):** Portfólio para um cliente, construído para apresentar seus projetos de fotografia e filmmaker, habilidades técnicas e evolução em sua carreira.
 
 ---
 
