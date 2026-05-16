@@ -46,5 +46,5 @@ Atualmente estou no **7º período de Engenharia de Software** na Unifacid Wyden
 
 ### 🤝 Vamos nos conectar?
 
-- 📸 Instagram de Estudos: [@theo.notes](https://www.instagram.com/theo.notes/)
+- 📸 Instagram: [@theo.notes](https://www.instagram.com/theo.notes/)
 - 💼 LinkedIn: [Seu Nome Profissional](LinkParaSeuLinkedInAqui) _(Dica: adicione seu link se tiver!)_
