@@ -49,4 +49,4 @@ Atualmente estou no **7º período de Engenharia de Software** na Unifacid Wyden
 ### 🤝 Vamos nos conectar?
 
 - 📸 Instagram: [@theo.notes](https://www.instagram.com/theo.notes/)
-- 💼 LinkedIn: [Seu Nome Profissional](LinkParaSeuLinkedInAqui) _(Dica: adicione seu link se tiver!)_
+- 💼 LinkedIn: [Theodoro Tajra]([LinkParaSeuLinkedInAqui](https://www.linkedin.com/in/theodoro-tajra/))
