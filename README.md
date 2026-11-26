@@ -19,7 +19,7 @@ Full Stack Developer at **Cloudsystem**, based in Teresina, Brazil. I work with 
 ### 🛠️ Tecnologias · Tech stack
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajratheodoro&hide=html&layout=compact&theme=tokyonight" alt="Top languages" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tajratheodoro&hide=html&layout=compact&theme=tokyonight" alt="Top languages" /></a>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
