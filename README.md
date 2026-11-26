@@ -53,8 +53,6 @@ Full Stack Developer at **Cloudsystem**, based in Teresina, Brazil. I work with 
 
 <a href="https://www.linkedin.com/in/theodoro-tajra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a> <a href="https://www.instagram.com/theo.notes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tajratheodoro/tajratheodoro/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/tajratheodoro/tajratheodoro/output/github-snake.svg" alt="Snake eating my contribution graph" />
