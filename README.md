@@ -1,71 +1,57 @@
 <div align="center">
 
-<a href="https://github.com/tajratheodoro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39D353&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Theodoro+%F0%9F%91%8B;Hi%2C+I'm+Theodoro+%F0%9F%91%8B;Full+Stack+Developer+%40+Cloudsystem;.NET+%2F+C%23+%2F+Go+%2F+Web;SQL+Server+%C2%B7+Performance+%C2%B7+NF-e" alt="Theodoro Tajra" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Theodoro+%F0%9F%91%8B;Hi%2C+I'm+Theodoro+%F0%9F%91%8B;Full+Stack+Developer+%40+Cloudsystem" alt="Theodoro Tajra" />
 
 </div>
 
-<pre>
-<b>theodoro@cloudsystem</b>:<b>~</b>$ whoami
-Theodoro Tajra
-Desenvolvedor Full Stack @ Cloudsystem · Teresina, PI, Brasil
+### 👨‍💻 Sobre mim
 
-<b>theodoro@cloudsystem</b>:<b>~</b>$ cat sobre.md
-→ .NET / C# / Go e Web
-→ SQL Server: performance e tuning de consultas
-→ Resolução de incidentes críticos em produção
-→ Integrações com ERP e fiscais (NF-e)
-→ Engenharia de Software · Unifacid Wyden
-→ Nas horas vagas: IA, automações e Micro-SaaS
-
-<b>theodoro@cloudsystem</b>:<b>~</b>$ ls ./projetos --destaque
-<a href="https://github.com/tajratheodoro/finance-app">finance-app/</a>                  Next.js · Prisma · PostgreSQL · testes + CI
-<a href="https://github.com/tajratheodoro/chatbot-wpp-linguas">chatbot-wpp-linguas/</a>          Python · bot de WhatsApp que corrige inglês (texto e áudio)
-<a href="https://github.com/tajratheodoro/ai-sentiment-analysis-tool">ai-sentiment-analysis-tool/</a>   TypeScript · IA que classifica sentimento de clientes
-
-<b>theodoro@cloudsystem</b>:<b>~</b>$ ping theodoro
-<a href="https://www.linkedin.com/in/theodoro-tajra/">linkedin</a>  ·  <a href="https://www.instagram.com/theo.notes/">instagram</a>
-
-<b>theodoro@cloudsystem</b>:<b>~</b>$ █
-</pre>
+Desenvolvedor Full Stack na **Cloudsystem**, em Teresina (PI). Trabalho com **.NET / C#, Go e Web**, cuido de **performance em SQL Server** e da **resolução de incidentes críticos** em produção, e desenvolvo **integrações com ERP e fiscais (NF-e)**. Também estudo Engenharia de Software na Unifacid Wyden e, nas horas vagas, brinco com IA, automações e Micro-SaaS.
 
 <details>
-<summary><b>🇺🇸 English version</b></summary>
+<summary>🇺🇸 <b>About me</b></summary>
+<br/>
 
-<pre>
-<b>theodoro@cloudsystem</b>:<b>~</b>$ whoami
-Theodoro Tajra
-Full Stack Developer @ Cloudsystem · Teresina, PI, Brazil
-
-<b>theodoro@cloudsystem</b>:<b>~</b>$ cat about.md
-→ .NET / C# / Go and Web
-→ SQL Server: performance and query tuning
-→ Critical production incident response
-→ ERP and tax integrations (Brazilian NF-e e-invoicing)
-→ Software Engineering student · Unifacid Wyden
-→ Side quests: AI, automation and Micro-SaaS
-
-<b>theodoro@cloudsystem</b>:<b>~</b>$ ls ./projects --featured
-<a href="https://github.com/tajratheodoro/finance-app">finance-app/</a>                  Next.js · Prisma · PostgreSQL · tests + CI
-<a href="https://github.com/tajratheodoro/chatbot-wpp-linguas">chatbot-wpp-linguas/</a>          Python · WhatsApp bot that corrects English (text and audio)
-<a href="https://github.com/tajratheodoro/ai-sentiment-analysis-tool">ai-sentiment-analysis-tool/</a>   TypeScript · AI that classifies customer sentiment
-
-<b>theodoro@cloudsystem</b>:<b>~</b>$ ping theodoro
-<a href="https://www.linkedin.com/in/theodoro-tajra/">linkedin</a>  ·  <a href="https://www.instagram.com/theo.notes/">instagram</a>
-
-<b>theodoro@cloudsystem</b>:<b>~</b>$ █
-</pre>
+Full Stack Developer at **Cloudsystem**, based in Teresina, Brazil. I work with **.NET / C#, Go and Web**, handle **SQL Server performance** and **critical production incidents**, and build **ERP and tax integrations** (Brazilian NF-e e-invoicing). I'm also a Software Engineering student at Unifacid Wyden, and in my spare time I tinker with AI, automation and Micro-SaaS.
 
 </details>
 
+### 🛠️ Tecnologias · Tech stack
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,go,ts,js,py,java,react,nextjs,nodejs,postgres,prisma,vitest,git,githubactions&perline=15" alt="Stack" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
-<img src="https://img.shields.io/badge/NF--e-2E7D32?style=for-the-badge" alt="NF-e" />
-<img src="https://img.shields.io/badge/ERP-455A64?style=for-the-badge" alt="ERP" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+### 📊 Linguagens mais usadas · Top languages
+
+<div align="center">
+
+[![tajratheodoro](https://github-readme-stats.vercel.app/api/top-langs/?username=tajratheodoro&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+### 🤝 Contato · Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/theodoro-tajra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a> <a href="https://www.instagram.com/theo.notes/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
