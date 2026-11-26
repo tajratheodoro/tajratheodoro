@@ -1,52 +1,77 @@
-# Olá, eu sou o Theodoro Tajra! 👋
-
-### 🚀 Estudante de Engenharia de Software & Desenvolvedor em Formação
-
-Atualmente estou no **7º período de Engenharia de Software** na Unifacid Wyden. Sou um desenvolvedor focado em desenvolvimento **Web e Back-end**, com forte interesse no ecossistema de soluções inteligentes, criação de Micro-SaaS e integração de APIs de Inteligência Artificial.
-
----
-
-### 💻 Sobre Mim
-
-- 🎓 **Educação:** Graduando em Engenharia de Software (7° Período)
-- 🏹 **Foco Atual:** Arquitetura de sistemas web, integrações com IA (como Gemini API), automações e desenvolvimento de bots.
-- ⚙️ **Experiência:** Vivência prática com suporte técnico de TI e docência na área de desenvolvimento de sistemas, o que me deu uma base sólida em resolução de problemas e lógica.
-- 🌐 **Idiomas:** Português (Nativo) & Inglês
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Front-end** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Back-end & Banco de Dados** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Outros** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-
----
-
-### 📌 Repositórios em Destaque
-
-* 🤖 **[ai-sentiment-analysis-tool](https://github.com/tajratheodoro/ai-sentiment-analysis-tool):** Ferramenta desenvolvida para monitoramento de satisfação do cliente em larga escala utilizando inteligência artificial para classificar e analisar sentimentos em comentários.
-* 🏦 **[sistema_bancario_simples](https://github.com/tajratheodoro/sistema_bancario_simples):** Um sistema bancário via terminal feito em Python focado em regras de negócio rígidas para depósitos, saques e extratos.
-* 💼 **[portfolio](https://github.com/tajratheodoro/portfolio):** Portfólio para um cliente, construído para apresentar seus projetos de fotografia e filmmaker, habilidades técnicas e evolução em sua carreira.
-
----
-
-### 📊 Minhas Estatísticas
-
 <div align="center">
-  <!-- Troféus de Conquistas do GitHub -->
-  <img src="https://github-profile-trophies.vercel.app/?username=tajratheodoro&theme=tokyonight&column=4" alt="Troféus do GitHub" />
-  <br/><br/>
-  <!-- Estatísticas de Dias Seguidos Programando (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajratheodoro&theme=tokyonight" alt="GitHub Streak" />
+
+<a href="https://github.com/tajratheodoro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39D353&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Theodoro+%F0%9F%91%8B;Hi%2C+I'm+Theodoro+%F0%9F%91%8B;Full+Stack+Developer+%40+Cloudsystem;.NET+%2F+C%23+%2F+Go+%2F+Web;SQL+Server+%C2%B7+Performance+%C2%B7+NF-e" alt="Theodoro Tajra" />
+</a>
+
 </div>
 
----
+<pre>
+<b>theodoro@cloudsystem</b>:<b>~</b>$ whoami
+Theodoro Tajra
+Desenvolvedor Full Stack @ Cloudsystem · Teresina, PI, Brasil
 
-### 🤝 Vamos nos conectar?
+<b>theodoro@cloudsystem</b>:<b>~</b>$ cat sobre.md
+→ .NET / C# / Go e Web
+→ SQL Server: performance e tuning de consultas
+→ Resolução de incidentes críticos em produção
+→ Integrações com ERP e fiscais (NF-e)
+→ Engenharia de Software · Unifacid Wyden
+→ Nas horas vagas: IA, automações e Micro-SaaS
 
-- 📸 Instagram: [@theo.notes](https://www.instagram.com/theo.notes/)
-- 💼 LinkedIn: [Theodoro Tajra](https://www.linkedin.com/in/theodoro-tajra/)
+<b>theodoro@cloudsystem</b>:<b>~</b>$ ls ./projetos --destaque
+<a href="https://github.com/tajratheodoro/finance-app">finance-app/</a>                  Next.js · Prisma · PostgreSQL · testes + CI
+<a href="https://github.com/tajratheodoro/chatbot-wpp-linguas">chatbot-wpp-linguas/</a>          Python · bot de WhatsApp que corrige inglês (texto e áudio)
+<a href="https://github.com/tajratheodoro/ai-sentiment-analysis-tool">ai-sentiment-analysis-tool/</a>   TypeScript · IA que classifica sentimento de clientes
+
+<b>theodoro@cloudsystem</b>:<b>~</b>$ ping theodoro
+<a href="https://www.linkedin.com/in/theodoro-tajra/">linkedin</a>  ·  <a href="https://www.instagram.com/theo.notes/">instagram</a>
+
+<b>theodoro@cloudsystem</b>:<b>~</b>$ █
+</pre>
+
+<details>
+<summary><b>🇺🇸 English version</b></summary>
+
+<pre>
+<b>theodoro@cloudsystem</b>:<b>~</b>$ whoami
+Theodoro Tajra
+Full Stack Developer @ Cloudsystem · Teresina, PI, Brazil
+
+<b>theodoro@cloudsystem</b>:<b>~</b>$ cat about.md
+→ .NET / C# / Go and Web
+→ SQL Server: performance and query tuning
+→ Critical production incident response
+→ ERP and tax integrations (Brazilian NF-e e-invoicing)
+→ Software Engineering student · Unifacid Wyden
+→ Side quests: AI, automation and Micro-SaaS
+
+<b>theodoro@cloudsystem</b>:<b>~</b>$ ls ./projects --featured
+<a href="https://github.com/tajratheodoro/finance-app">finance-app/</a>                  Next.js · Prisma · PostgreSQL · tests + CI
+<a href="https://github.com/tajratheodoro/chatbot-wpp-linguas">chatbot-wpp-linguas/</a>          Python · WhatsApp bot that corrects English (text and audio)
+<a href="https://github.com/tajratheodoro/ai-sentiment-analysis-tool">ai-sentiment-analysis-tool/</a>   TypeScript · AI that classifies customer sentiment
+
+<b>theodoro@cloudsystem</b>:<b>~</b>$ ping theodoro
+<a href="https://www.linkedin.com/in/theodoro-tajra/">linkedin</a>  ·  <a href="https://www.instagram.com/theo.notes/">instagram</a>
+
+<b>theodoro@cloudsystem</b>:<b>~</b>$ █
+</pre>
+
+</details>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,go,ts,js,py,java,react,nextjs,nodejs,postgres,prisma,vitest,git,githubactions&perline=15" alt="Stack" />
+<br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+<img src="https://img.shields.io/badge/NF--e-2E7D32?style=for-the-badge" alt="NF-e" />
+<img src="https://img.shields.io/badge/ERP-455A64?style=for-the-badge" alt="ERP" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tajratheodoro/tajratheodoro/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/tajratheodoro/tajratheodoro/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
+
+</div>
